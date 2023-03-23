@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nimej99/reactPractice.git/static/css/main.13582d48.css",
+    "main.js": "/nimej99/reactPractice.git/static/js/main.57ed9c31.js",
+    "static/js/787.270c0e19.chunk.js": "/nimej99/reactPractice.git/static/js/787.270c0e19.chunk.js",
+    "index.html": "/nimej99/reactPractice.git/index.html",
+    "main.13582d48.css.map": "/nimej99/reactPractice.git/static/css/main.13582d48.css.map",
+    "main.57ed9c31.js.map": "/nimej99/reactPractice.git/static/js/main.57ed9c31.js.map",
+    "787.270c0e19.chunk.js.map": "/nimej99/reactPractice.git/static/js/787.270c0e19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13582d48.css",
+    "static/js/main.57ed9c31.js"
+  ]
+}
