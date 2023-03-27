@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.d130c911.css",
-    "main.js": "./static/js/main.943ea0b5.js",
-    "static/js/787.270c0e19.chunk.js": "./static/js/787.270c0e19.chunk.js",
-    "index.html": "./index.html",
-    "main.d130c911.css.map": "./static/css/main.d130c911.css.map",
-    "main.943ea0b5.js.map": "./static/js/main.943ea0b5.js.map",
-    "787.270c0e19.chunk.js.map": "./static/js/787.270c0e19.chunk.js.map"
+    "main.css": "/nimej99/reactPractice.git/static/css/main.d130c911.css",
+    "main.js": "/nimej99/reactPractice.git/static/js/main.608875f5.js",
+    "static/js/787.270c0e19.chunk.js": "/nimej99/reactPractice.git/static/js/787.270c0e19.chunk.js",
+    "index.html": "/nimej99/reactPractice.git/index.html",
+    "main.d130c911.css.map": "/nimej99/reactPractice.git/static/css/main.d130c911.css.map",
+    "main.608875f5.js.map": "/nimej99/reactPractice.git/static/js/main.608875f5.js.map",
+    "787.270c0e19.chunk.js.map": "/nimej99/reactPractice.git/static/js/787.270c0e19.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d130c911.css",
-    "static/js/main.943ea0b5.js"
+    "static/js/main.608875f5.js"
   ]
 }
